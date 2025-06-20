@@ -37,7 +37,6 @@ For only two opposing yes/no options, use a checkbox instead.
 
 ### 5 and more options
 If the options have short labels, use a segmented button. Or, if the options can be represented on an axis, such as a time delay, use a slider instead.
-
 ![Segmented button](03_When_to_use_Segmented_button.png){width=706}
 
 For other cases with 5 or more options use a [drop-down list](drop_down.md):
