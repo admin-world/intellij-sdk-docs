@@ -102,7 +102,7 @@ which toolbar icon opens the menu.
   </tr>
 </table>
 
-### Explain what to do when there is no action`
+### Explain what to do when there is no action
 
 If there is no action that can be performed by clicking a link,
 add a text describing all the required steps:
